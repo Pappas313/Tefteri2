@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tefteri</string>
+
+    <array name="departments">
+        <item>Food</item>
+        <item>Personal Costs</item>
+        <item>Car Cost</item>
+        <item>Home Cost</item>
+        <item>Fun and Entertainment</item>
+    </array>
+</resources>
